@@ -40,4 +40,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/MRATYU"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/MRATYU"><img src="https://telegra.ph/file/900a16805b58b27e1c522.jpg"></a>
